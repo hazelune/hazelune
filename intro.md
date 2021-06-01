@@ -14,6 +14,7 @@ My knowledge on different languages is:
   - CSS, also so-so
   - Lua, like 3 hours worth
   
+I have... uh... just accidentally... deleted all my work... for the past 9 months... uhhh... my fault for pressing buttons I didn't understand in VSCode I guess...
 
 I'm currently trying to learn web design and how to utilize APIs, but past that, I'm not sure. Web design is pretty neat, after all.
 
