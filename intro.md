@@ -15,8 +15,9 @@ My knowledge on different languages is:
   - Lua, like 3 hours worth
   
 I have... uh... just accidentally... deleted all my work... for the past 9 months... uhhh... my fault for pressing buttons I didn't understand in VSCode I guess...
+So I'll be a bit before I can upload some stuff.
 
-I'm currently trying to learn web design and how to utilize APIs, but past that, I'm not sure. Web design is pretty neat, after all.
+I'm currently trying to learn web design, web development, and how to utilize APIs, but past that, I'm not sure. Web design is pretty neat, after all.
 
 Hopefully, some of the programming knowledge will come in handy in the form of making a cool website to showcase my prinary 
 interest, art, while being pretty impressive in the process. Not many people have self-designed website portfolios, I'd imagine.
@@ -30,7 +31,3 @@ If you'd like to contact me, feel free to reach out at:
   
 Have a great day, and please don't judge my work too harshly 👉 👈
 
-<!---
-hazelune/hazelune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
